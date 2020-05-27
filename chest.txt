@@ -1,4 +1,4 @@
 biscep
 chest
 arms
-legs
+legs 2
